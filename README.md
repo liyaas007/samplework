@@ -6,9 +6,10 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### Zuai
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+zuai is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
+```zuai 
+
 Syntax highlighted code block
 
 # Zuai the online Mart   
